@@ -1,0 +1,21 @@
+[
+  {
+    "id": "1",
+    "image": "/assets/images/hero-slider/hero-slider-one/CC.jpg",
+    "url": "/shop/left-sidebar"
+  },
+  {
+    "id": "2",
+    "image": "/assets/images/hero-slider/hero-slider-one/2.jpg",
+    "subtitle": "HANDMADE",
+    "title": "Large, <br> Food board",
+    "url": "/shop/left-sidebar"
+  },
+  {
+    "id": "3",
+    "image": "/assets/images/hero-slider/hero-slider-one/3.jpg",
+    "subtitle": "ACCESSORIES",
+    "title": "Tribeca Hubert, <br> Pendant",
+    "url": "/shop/left-sidebar"
+  }
+]
